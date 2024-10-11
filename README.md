@@ -4,9 +4,9 @@ Sofwate Libre 2024
 
 Parte 1
 
-Mostrar el estado del sistema  --
+Mostrar el estado del sistema  -- systemctl status
 
-Listar unidades en ejecución  --
+Listar unidades en ejecución  -- systemctl list-units 
 
 Ver una lista de todas las unidades activas que systemd
 conoce  --
